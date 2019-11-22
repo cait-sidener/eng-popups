@@ -1,0 +1,50 @@
+{
+    "techHist": [{
+        "technician": "Deallon Wildeman",
+        "assignedDate": "1/1/2013",
+        "unassignedDate": "8/3/2015",
+        "modifiedBy": null,
+        "modifiedOn": null
+    },
+    {
+        "technician": "Marcus Eakes",
+        "assignedDate": "8/3/2015",
+        "unassignedDate": null,
+        "modifiedBy": null,
+        "modifiedOn": null
+    }
+],
+    "projNotes": [{
+        "noteAuthor": "EAKES",
+        "noteDate": "6/13/2019",
+        "order": 1,
+        "note": "CT Updates for 30 tracts due 8/1/19",
+        "onReport": false,
+        "modifiedOn": "9/19/2019 9:33 AM"
+    },
+    {
+        "noteAuthor": "EAKES",
+        "noteDate": "9/19/2019",
+        "order": 2,
+        "note": "4 Name changes & 2 splits submitted to checker 9/19/19",
+        "onReport": false,
+        "modifiedOn": "9/27/2019 1:43 PM"
+    },
+    {
+        "noteAuthor": "EAKES",
+        "noteDate": "9/27/2019",
+        "order": 3,
+        "note": "Plan sets with name changes/splits requested 9/26/19",
+        "onReport": false,
+        "modifiedOn": "10/8/2019 8:50 AM"
+    },
+    {
+        "noteAuthor": "EAKES",
+        "noteDate": "11/6/2019",
+        "order": 4,
+        "note": "Requested CT update for tract 19 on 11-6-19",
+        "onReport": true,
+        "modifiedOn": null
+    }
+]
+}
